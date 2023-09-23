@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e123a911-f1b6-4d91-93da-a17fa0798c76" name="Changes" comment="23/09/23 Inicio Parcial">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/conf/PersistenceUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/entity/Patrocinador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/entity/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/entity/Proyecto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/executor/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uptc/frw/executor/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/executor/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695475463487</updated>
-      <workItem from="1695475464571" duration="3541000" />
+      <workItem from="1695475464571" duration="4089000" />
     </task>
     <task id="LOCAL-00001" summary="23/09/23 Inicio Parcial">
       <option name="closed" value="true" />

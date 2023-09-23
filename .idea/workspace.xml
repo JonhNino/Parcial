@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e123a911-f1b6-4d91-93da-a17fa0798c76" name="Changes" comment="23/09/23 Inicio Parcial">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/conf/PersistenceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/entity/Patrocinador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/entity/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/entity/Proyecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uptc/frw/executor/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +23,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -40,9 +53,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Espe/Modulo 2/TallerProveedores/parcialFramework",
+    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Espe/Modulo 2/TallerProveedores/parcialFramework/src/main/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,9 +64,40 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\Espe\Modulo 2\TallerProveedores\parcialFramework\src\main\java" />
+      <recent name="C:\Users\LENOVO\Desktop\Espe\Modulo 2\TallerProveedores\parcialFramework\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\Espe\Modulo 2\TallerProveedores\parcialFramework\src\main\java" />
+      <recent name="C:\Users\LENOVO\Desktop\Espe\Modulo 2\TallerProveedores\parcialFramework\src\main\com.uptc.frw" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uptc.frw.executor.Principal" />
+      <module name="parcialFramework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uptc.frw.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695475463487</updated>
-      <workItem from="1695475464571" duration="1346000" />
+      <workItem from="1695475464571" duration="3541000" />
     </task>
     <task id="LOCAL-00001" summary="23/09/23 Inicio Parcial">
       <option name="closed" value="true" />
